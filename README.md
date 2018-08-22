@@ -21,4 +21,6 @@ WilliamsIndicators: https://bit.ly/2LiZFUW
 
 Experiments: https://bit.ly/2MF9ilx
 
+TableAnalyzer: https://github.com/Tolkoton/Williams-Trading-Strategy-for-Crypto/blob/master/table%20analyzer.txt
+
 
