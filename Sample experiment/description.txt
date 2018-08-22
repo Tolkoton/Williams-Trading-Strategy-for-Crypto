@@ -1,3 +1,14 @@
 Here you can find results of an experiment.
 
 Each file represents trading decisions made by algorhitm on single currency pair using candles from single time interval (you can guess them from file name).
+
+summary.csv stores end USDT balance from each currency pair and each interval.
+
+This particular experiment was set up as follows:
+
+1. Finding bull or bear divergent bar.
+2. If its far from alligator lines and if there is angularation buy or sell currency (depending on which divergent bar found - bull or bear).
+3. The lowest price from last 5 candles was set as stop loss price.
+
+Feel free to contact me if you have any questions.
+
