@@ -1,0 +1,12 @@
+Table Analyzer is designed to run multiple experiments at once. 
+Methods:
+
+instance_generator
+Generates multiple instances each with different curreny pair and time interval. Then you can run them one by one unsing 
+run_experiments_from_instance_list method.
+
+instance_runner_manual
+Allows you to manually run experiments
+
+tables_summary
+creates a summary.csv with all the final balances of all experiments.
