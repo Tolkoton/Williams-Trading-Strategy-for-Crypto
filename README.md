@@ -16,6 +16,9 @@ https://github.com/Tolkoton/Williams-Trading-Strategy-for-Crypto/blob/master/Sam
 
 Main modules description:
 BinanceConnect: https://bit.ly/2nXxjpI
+
 WilliamsIndicators: https://bit.ly/2LiZFUW
-Experiments: 
+
+Experiments: https://bit.ly/2MF9ilx
+
 
