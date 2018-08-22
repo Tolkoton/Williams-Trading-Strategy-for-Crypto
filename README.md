@@ -9,8 +9,7 @@ https://bit.ly/2Lhbdbh
 You can use this software not only with Bill Williams indicators that are found here, but also any indicators you want.
 I found a good package here: https://github.com/jealous/stockstats
 
-You can find explanation of sample experiment here:
-https://github.com/Tolkoton/Williams-Trading-Strategy-for-Crypto/blob/master/Sample%20experiment/description.txt
+You can find explanation of sample experiment here: https://bit.ly/2o1gCtA
 
 
 
