@@ -1,0 +1,22 @@
+AlligatorExperiment class has such methods:
+
+These allow you to make trading decisions using an existing candles dataset:
+theoretical_buy_historical
+heoretical_sell_historical
+
+These allow you to make trading decisions using candles data from Binance got at this moment online:
+theoretical_buy_instant
+theoretical_sell_instant
+
+Those are different stop-loss methods:
+theoretical_stop_loss_historical
+climbing_stop_loss
+stoploss_last5low
+
+This one allows creating a dataframe with Binanbce data and technical trading indicators:
+create_metrics_dataframe
+
+Here are some pre-designed experiments:
+div_bar_alligator_distance
+div_bar_alligator_angularation
+div_bar_alligator_angularation
