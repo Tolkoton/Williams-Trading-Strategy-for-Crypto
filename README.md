@@ -6,7 +6,7 @@ This is a software for research. It allows to run an experiment on one strategy 
 Feel free to contact me if you have any questions:
 https://bit.ly/2Lhbdbh
 
-You can use this software not only with Bill Williams indicators that are found here, but also any indicators you want.
+You can use this software not only with Bill Williams indicators that are found here, but also with any indicators you want.
 I found a good package here: https://github.com/jealous/stockstats
 
 You can find explanation of sample experiment here: https://bit.ly/2o1gCtA
