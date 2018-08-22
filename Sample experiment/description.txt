@@ -1,1 +1,3 @@
 Here you can find results of an experiment.
+
+Each file represents trading decisions made by algorhitm on single currency pair using candles from single time interval (you can guess them from file name).
